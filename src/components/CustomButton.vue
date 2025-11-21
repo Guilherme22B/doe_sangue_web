@@ -26,7 +26,7 @@ button {
 button:hover {
     transition: 0.5s;
     cursor: pointer;
-    background-color: var(--secondary-color);
+    background-color: var(--button-hover);
 }
 
 .btn-secondary {
